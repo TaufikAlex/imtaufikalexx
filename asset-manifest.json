@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/taufikalex/static/css/main.e0899bb9.chunk.css",
-    "main.js": "/taufikalex/static/js/main.14ca735b.chunk.js",
-    "main.js.map": "/taufikalex/static/js/main.14ca735b.chunk.js.map",
+    "main.css": "/taufikalex/static/css/main.7d453e90.chunk.css",
+    "main.js": "/taufikalex/static/js/main.bea1d6d0.chunk.js",
+    "main.js.map": "/taufikalex/static/js/main.bea1d6d0.chunk.js.map",
     "runtime-main.js": "/taufikalex/static/js/runtime-main.9aed40bc.js",
     "runtime-main.js.map": "/taufikalex/static/js/runtime-main.9aed40bc.js.map",
     "static/js/2.6a1c2a7b.chunk.js": "/taufikalex/static/js/2.6a1c2a7b.chunk.js",
     "static/js/2.6a1c2a7b.chunk.js.map": "/taufikalex/static/js/2.6a1c2a7b.chunk.js.map",
     "index.html": "/taufikalex/index.html",
-    "precache-manifest.f3a28791f451868545ae0f28ee93110a.js": "/taufikalex/precache-manifest.f3a28791f451868545ae0f28ee93110a.js",
+    "precache-manifest.bb22770e10cacc820ba26d3813a1aa99.js": "/taufikalex/precache-manifest.bb22770e10cacc820ba26d3813a1aa99.js",
     "service-worker.js": "/taufikalex/service-worker.js",
-    "static/css/main.e0899bb9.chunk.css.map": "/taufikalex/static/css/main.e0899bb9.chunk.css.map",
+    "static/css/main.7d453e90.chunk.css.map": "/taufikalex/static/css/main.7d453e90.chunk.css.map",
     "static/js/2.6a1c2a7b.chunk.js.LICENSE.txt": "/taufikalex/static/js/2.6a1c2a7b.chunk.js.LICENSE.txt",
     "static/media/alxlogo-blur.png": "/taufikalex/static/media/alxlogo-blur.d593413b.png",
     "static/media/bg.jpg": "/taufikalex/static/media/bg.eaa7be58.jpg",
@@ -23,7 +23,7 @@
   "entrypoints": [
     "static/js/runtime-main.9aed40bc.js",
     "static/js/2.6a1c2a7b.chunk.js",
-    "static/css/main.e0899bb9.chunk.css",
-    "static/js/main.14ca735b.chunk.js"
+    "static/css/main.7d453e90.chunk.css",
+    "static/js/main.bea1d6d0.chunk.js"
   ]
 }

@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "28e49caf32254470461dded82f38ae5a",
+    "revision": "680bbe7445bf241c5943684f7d680fe5",
     "url": "/taufikalex/index.html"
   },
   {
-    "revision": "33a6be30f0f47abcea2b",
-    "url": "/taufikalex/static/css/main.e0899bb9.chunk.css"
+    "revision": "14f9de207b7583cdf03b",
+    "url": "/taufikalex/static/css/main.7d453e90.chunk.css"
   },
   {
     "revision": "e286ac41048f99ff48a9",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/taufikalex/static/js/2.6a1c2a7b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "33a6be30f0f47abcea2b",
-    "url": "/taufikalex/static/js/main.14ca735b.chunk.js"
+    "revision": "14f9de207b7583cdf03b",
+    "url": "/taufikalex/static/js/main.bea1d6d0.chunk.js"
   },
   {
     "revision": "ecc6becd83784ccb4bb9",
