@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/static/css/main.0abc29f3.chunk.css",
-    "main.js": "/static/js/main.5ce4ab12.chunk.js",
-    "main.js.map": "/static/js/main.5ce4ab12.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.cc36b19e.js",
-    "runtime-main.js.map": "/static/js/runtime-main.cc36b19e.js.map",
-    "static/js/2.e57228bd.chunk.js": "/static/js/2.e57228bd.chunk.js",
-    "static/js/2.e57228bd.chunk.js.map": "/static/js/2.e57228bd.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.2bddfc01ccaaf0ab9d7f711133b6b7c0.js": "/precache-manifest.2bddfc01ccaaf0ab9d7f711133b6b7c0.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.0abc29f3.chunk.css.map": "/static/css/main.0abc29f3.chunk.css.map",
-    "static/js/2.e57228bd.chunk.js.LICENSE.txt": "/static/js/2.e57228bd.chunk.js.LICENSE.txt",
-    "static/media/bg.jpg": "/static/media/bg.eaa7be58.jpg",
-    "static/media/github.76d344f0.svg": "/static/media/github.76d344f0.svg",
-    "static/media/heroku.55d6093f.svg": "/static/media/heroku.55d6093f.svg",
-    "static/media/instagram.dca29619.svg": "/static/media/instagram.dca29619.svg",
-    "static/media/linkedin.6c8e140e.svg": "/static/media/linkedin.6c8e140e.svg",
-    "static/media/state-web.svg": "/static/media/state-web.5bb75439.svg"
+    "main.css": "/taufikalex/static/css/main.0abc29f3.chunk.css",
+    "main.js": "/taufikalex/static/js/main.09702732.chunk.js",
+    "main.js.map": "/taufikalex/static/js/main.09702732.chunk.js.map",
+    "runtime-main.js": "/taufikalex/static/js/runtime-main.9aed40bc.js",
+    "runtime-main.js.map": "/taufikalex/static/js/runtime-main.9aed40bc.js.map",
+    "static/js/2.e57228bd.chunk.js": "/taufikalex/static/js/2.e57228bd.chunk.js",
+    "static/js/2.e57228bd.chunk.js.map": "/taufikalex/static/js/2.e57228bd.chunk.js.map",
+    "index.html": "/taufikalex/index.html",
+    "precache-manifest.95cf3fc17cacafd7ec00d59ae8cc6739.js": "/taufikalex/precache-manifest.95cf3fc17cacafd7ec00d59ae8cc6739.js",
+    "service-worker.js": "/taufikalex/service-worker.js",
+    "static/css/main.0abc29f3.chunk.css.map": "/taufikalex/static/css/main.0abc29f3.chunk.css.map",
+    "static/js/2.e57228bd.chunk.js.LICENSE.txt": "/taufikalex/static/js/2.e57228bd.chunk.js.LICENSE.txt",
+    "static/media/bg.jpg": "/taufikalex/static/media/bg.eaa7be58.jpg",
+    "static/media/github.76d344f0.svg": "/taufikalex/static/media/github.76d344f0.svg",
+    "static/media/heroku.55d6093f.svg": "/taufikalex/static/media/heroku.55d6093f.svg",
+    "static/media/instagram.dca29619.svg": "/taufikalex/static/media/instagram.dca29619.svg",
+    "static/media/linkedin.6c8e140e.svg": "/taufikalex/static/media/linkedin.6c8e140e.svg",
+    "static/media/state-web.svg": "/taufikalex/static/media/state-web.5bb75439.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.cc36b19e.js",
+    "static/js/runtime-main.9aed40bc.js",
     "static/js/2.e57228bd.chunk.js",
     "static/css/main.0abc29f3.chunk.css",
-    "static/js/main.5ce4ab12.chunk.js"
+    "static/js/main.09702732.chunk.js"
   ]
 }
