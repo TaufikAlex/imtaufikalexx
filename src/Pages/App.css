@@ -1,0 +1,88 @@
+.bg {
+  height: 100vh;
+  width: 100vw;
+  object-fit: cover;
+  filter: brightness(0.4) blur(1.5px);
+}
+
+.content {
+  position: absolute;
+  color: white;
+  top: 0;
+  height: 100%;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.content-text {
+  /* display: flex; */
+  /* align-items: center;
+  justify-content: center; */
+  padding: 10%;
+}
+
+.navbar {
+  top: 0;
+  position: absolute;
+  color: white;
+}
+
+.h2 {
+  font-size: 2em;
+  margin: 0px;
+  background: black;
+  color: white;
+  width: fit-content;
+  padding: 6px 10px;
+  letter-spacing: 1px;
+  border-radius: 1px;
+}
+
+.h1 {
+  font-size: 4em;
+  margin: 0px;
+  letter-spacing: 2px;
+}
+
+.h3 {
+  margin: 0px;
+  font-weight: 300;
+  font-size: 1.6em;
+}
+
+.image {
+  width: 80%;
+}
+
+/*footer*/
+
+.footer {
+  position: fixed;
+  bottom: 0px;
+  left: 0px;
+  right: 0px;
+}
+
+.footer-content {
+  background: white;
+  width: fit-content;
+  min-width: 330px;
+  height: 60px;
+  margin: auto;
+  border-radius: 70px 70px 0px 0px;
+  color: black;
+  display: flex;
+  -webkit-box-align: center;
+  align-items: center;
+  -webkit-box-pack: justify;
+  justify-content: space-between;
+  padding: 0px 50px;
+}
+
+.svg-icon {
+  width: 35px;
+  height: 35px;
+  /* fill: none; */
+}
