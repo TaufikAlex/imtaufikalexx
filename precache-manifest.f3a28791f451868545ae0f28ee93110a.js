@@ -1,27 +1,31 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "207abe64d9ce43043f54bdf11f2c6885",
+    "revision": "28e49caf32254470461dded82f38ae5a",
     "url": "/taufikalex/index.html"
   },
   {
-    "revision": "71fe10d7378848742d9f",
-    "url": "/taufikalex/static/css/main.0abc29f3.chunk.css"
+    "revision": "33a6be30f0f47abcea2b",
+    "url": "/taufikalex/static/css/main.e0899bb9.chunk.css"
   },
   {
-    "revision": "18a737f89653ec255a02",
-    "url": "/taufikalex/static/js/2.e57228bd.chunk.js"
+    "revision": "e286ac41048f99ff48a9",
+    "url": "/taufikalex/static/js/2.6a1c2a7b.chunk.js"
   },
   {
-    "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/taufikalex/static/js/2.e57228bd.chunk.js.LICENSE.txt"
+    "revision": "3453b8997016469371284a28c0e873e2",
+    "url": "/taufikalex/static/js/2.6a1c2a7b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "71fe10d7378848742d9f",
-    "url": "/taufikalex/static/js/main.09702732.chunk.js"
+    "revision": "33a6be30f0f47abcea2b",
+    "url": "/taufikalex/static/js/main.14ca735b.chunk.js"
   },
   {
     "revision": "ecc6becd83784ccb4bb9",
     "url": "/taufikalex/static/js/runtime-main.9aed40bc.js"
+  },
+  {
+    "revision": "d593413b502239028b6166ad00c4fafb",
+    "url": "/taufikalex/static/media/alxlogo-blur.d593413b.png"
   },
   {
     "revision": "eaa7be58abb7471cdb42bc0e20ff256f",
